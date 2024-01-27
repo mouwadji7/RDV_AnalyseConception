@@ -1,5 +1,5 @@
-Arborescences des Branches 
-=> main ( ou se trouve le dossier principale )
+Arborescences des Branches :
+=> main (dossier principale )
 
 =>RDV { main } ( tous les modification a propos des rdv se ferons dans cette dossier il est aussi divises en 2 parties)
 $$$=> RechercheRDV { main/RDV }( les fonctionnalites a propos des recherches RDV se ferons lasbas )
